@@ -14,7 +14,7 @@ This project focuses on classifying mobile phone prices using various machine le
 The goal of this project is to predict the price range of mobile phones based on their features. We use three different machine learning models to achieve this: Logistic Regression, SVC, and Neural Networks.
 
 ## Dataset
-The dataset used for this project can be found on Kaggle: [Mobile Price Classification Dataset](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification). Download the dataset and place it in the `data` directory before running the models.
+The dataset used for this project can be found on Kaggle: [Mobile Price Classification Dataset](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification).
 
 ## Installation
 To get started, clone the repository and create a conda environment using the provided `environment.yml` file:
